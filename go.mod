@@ -1,3 +1,3 @@
-module hypixel-api-wrapper
+module gopixel
 
 go 1.19
