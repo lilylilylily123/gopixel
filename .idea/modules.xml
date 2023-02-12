@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hypixel-api-wrapper.iml" filepath="$PROJECT_DIR$/hypixel-api-wrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gopixel.iml" filepath="$PROJECT_DIR$/gopixel.iml" />
     </modules>
   </component>
 </project>

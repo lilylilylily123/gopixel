@@ -1,4 +1,4 @@
-package main
+package gopixel
 
 import (
 	"encoding/json"
