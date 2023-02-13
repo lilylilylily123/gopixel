@@ -40,7 +40,7 @@ func (s *User) GetPlayer(username string) (*getPlayer, error) {
 }
 
 func (s *User) doRequest(req *http.Request) ([]byte, error) {
-	req.SetBasicAuth(s.ApiKey, _)
+	req.SetBasicAuth(s.ApiKey, s.ApiKey)
 	client := &http.Client{}
 	resp, err := client.Do(req)
 	if err != nil {
